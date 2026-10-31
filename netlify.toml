@@ -1,0 +1,4 @@
+# Derbel Tracker on Netlify
+# index.html = the tracker; netlify/edge-functions/droppy-proxy.js serves Droppy through this same site.
+[build]
+  publish = "."
